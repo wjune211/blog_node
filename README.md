@@ -2,11 +2,11 @@
 
 > A node.js project
 
-# 个人博客系统的服务端
+### 个人博客系统的服务端
 
-# 使用node+express+mysql技术搭建服务端
+### 使用node+express+mysql技术搭建服务端
 
-# 实现文章的CRUD功能
+### 实现文章的CRUD功能
 
 ``` bash
 # install dependencies
